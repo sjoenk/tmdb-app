@@ -1,0 +1,17 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    - parameter_assignments
+
+analyzer:
+  exclude:
+    - "**/injection.config.dart"
+    - "**/*.freezed.dart"
+    - "**/*.g.dart"
+  errors:
+    sort_unnamed_constructors_first: ignore
+    missing_required_param: error
+    parameter_assignments: error
+    must_be_immutable: error
+    missing_return: error

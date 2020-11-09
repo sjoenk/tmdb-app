@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1066226579017-h0v3sq1q8v50o7i39k6nsqoge2ps4vvg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1066226579017-h0v3sq1q8v50o7i39k6nsqoge2ps4vvg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1066226579017-57pdvva68vd72ov8u4tsr6rlvge1vorj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZsPwOWsTkgW2mo4UGUbR_ggpJZyj5P3g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1066226579017</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nl.silversoft.tmdbApp</string>
+	<key>PROJECT_ID</key>
+	<string>silversoft-tmdb-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>silversoft-tmdb-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1066226579017:ios:7af4bd40644fc6578f7198</string>
+	<key>DATABASE_URL</key>
+	<string>https://silversoft-tmdb-app.firebaseio.com</string>
+</dict>
+</plist>

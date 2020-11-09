@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066226579017",
+    "firebase_url": "https://silversoft-tmdb-app.firebaseio.com",
+    "project_id": "silversoft-tmdb-app",
+    "storage_bucket": "silversoft-tmdb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066226579017:android:ac3eefe1e7b768f78f7198",
+        "android_client_info": {
+          "package_name": "nl.silversoft.tmdb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066226579017-57pdvva68vd72ov8u4tsr6rlvge1vorj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.silversoft.tmdb_app",
+            "certificate_hash": "7a2ecfe164ae8d2e75219cc6af836cedd3db953a"
+          }
+        },
+        {
+          "client_id": "1066226579017-mbjrh5jji49q8do7egqr3r6i9sd1q2gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH95O-JA2w-b0dhUd6DoLx_Os6LCYbEBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066226579017-mbjrh5jji49q8do7egqr3r6i9sd1q2gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
